@@ -1,7 +1,7 @@
 # Autolib Car-Sharing Service Company
 
 # Contributor
-#Joy Muli
+Joy Muli
 
 # General info
 This is an independent project working on a study that shows the mean of blue cars taken on Thursdays and Fridays and if they differ. 
